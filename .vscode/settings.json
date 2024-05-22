@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "D:/flutter_projects/audio_capture_saving_to_server/app/app/linux"
+}
